@@ -1,9 +1,10 @@
-Тестовое задание Sirius Future.
+#Тестовое задание Sirius Future.
 
-Nextjs
-Styled-components
-Библиотека emothion.sh
-Storybook для создания библиотеки компонентов
+Используемые технологии:
+1)Nextjs
+2)Styled-components
+3)Библиотека emothion.sh
+4)Storybook для создания библиотеки компонентов
 
 Для запуска проекта:
 1) Клонируем репозиторий
