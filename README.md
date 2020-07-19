@@ -9,6 +9,6 @@
 Для запуска проекта:
 1) Клонируем репозиторий.
 2) Устанавливаем зависимости.
-npm install
+*npm install*
 3) Запускаем storybook.
-npm run storybook
+*npm run storybook*
